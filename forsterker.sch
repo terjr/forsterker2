@@ -35,9 +35,9 @@ EELAYER 27 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 3
+Sheet 1 4
 Title ""
-Date "22 apr 2014"
+Date "25 apr 2014"
 Rev ""
 Comp ""
 Comment1 ""
@@ -65,5 +65,15 @@ S 6500 2000 1450 900
 U 5356FAC2
 F0 "ATMEGA164A" 50
 F1 "atmega.sch" 50
+$EndSheet
+$Sheet
+S 5050 4150 2100 1250
+U 535AB6EA
+F0 "DAC" 50
+F1 "dac.sch" 50
+F2 "DIGITAL_AUDIO_INPUT" I L 5050 4400 60 
+F3 "OUTL" I L 5050 4650 60 
+F4 "OUTR" I L 5050 4850 60 
+F5 "XSMT" I L 5050 5050 60 
 $EndSheet
 $EndSCHEMATC
