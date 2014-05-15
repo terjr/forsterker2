@@ -1,6 +1,9 @@
-Errors from 1st revision:
-    Rectifier bridge footprint has too small holes
-    Power input footprint has too short holes
-    Footprint for RCA has too round holes for plastic hooks
-    Power lines from 230V and 15V are too narrow
-    Digital Input Mux outputs are reversed
+Errors from 1st revision
+
+- Rectifier bridge footprint has too small holes
+- Power input footprint has too short holes
+- Footprint for RCA has too round holes for plastic hooks
+- Power lines from 230V and 15V are too narrow
+- ADG1 (digital mux) has swapped DA/DB. Also. use 4-to-1 mux in next rev.
+- Figure out what to to with AGND and GND
+
