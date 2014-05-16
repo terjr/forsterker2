@@ -4,3 +4,4 @@ Errors from 1st revision:
     Footprint for RCA has too round holes for plastic hooks
     Power lines from 230V and 15V are too narrow
     Digital Input Mux outputs are reversed
+    DIR9001 - pin 5 and pin 6 mixed up
