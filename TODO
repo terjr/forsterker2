@@ -7,3 +7,4 @@ Errors from 1st revision
 - ADG1 (digital mux) has swapped DA/DB. Also. use 4-to-1 mux in next rev.
 - Figure out what to to with AGND and GND
 - DIR9001 - pin 5 and pin 6 mixed up
+- There should be some way of disabling the digital mux
