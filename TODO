@@ -8,3 +8,4 @@ Errors from 1st revision
 - Figure out what to to with AGND and GND
 - DIR9001 - pin 5 and pin 6 mixed up
 - There should be some way of disabling the digital mux
+- P13 has wrong footprint.
